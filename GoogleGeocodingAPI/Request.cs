@@ -23,7 +23,6 @@ namespace GoogleGeocodingAPI
         /// <summary>
         /// Send a request to te Google geocode API
         /// </summary>
-        /// <param name="format">The format of the response</param>
         /// <param name="address">The address that you want to geocode.</param>
         /// <param name="latlong">The textual latitude/longitude value for which you wish to obtain the closest, human-readable address.</param>
         /// <param name="bounds">The bounding box of the viewport within which to bias geocode results more prominently.</param>
