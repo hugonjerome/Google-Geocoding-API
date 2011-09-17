@@ -4,3 +4,4 @@
 /GoogleGeocodingAPI/bin
 /GoogleGeocodingAPI/obj
 *.suo
+*.csproj.user
