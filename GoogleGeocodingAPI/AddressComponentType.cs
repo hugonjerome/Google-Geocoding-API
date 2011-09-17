@@ -96,6 +96,10 @@
         /// <summary>
         /// Indicates the room of a building address (only address components may exhibit this type).
         /// </summary>
-        room
+        room,
+        /// <summary>
+        /// Indicates an establishment.
+        /// </summary>
+        establishment
     }
 }
