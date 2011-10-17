@@ -100,6 +100,10 @@
         /// <summary>
         /// Indicates an establishment.
         /// </summary>
-        establishment
+        establishment,
+        /// <summary>
+        /// Indicates a train station.
+        /// </summary>
+        train_station
     }
 }
