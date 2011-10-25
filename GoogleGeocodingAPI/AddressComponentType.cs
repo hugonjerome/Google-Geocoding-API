@@ -110,8 +110,12 @@
         /// </summary>
         parking,
         /// <summary>
-        /// Indicates a parking.
+        /// Indicates a postal_code_prefix.
         /// </summary>
-        postal_code_prefix
+        postal_code_prefix,
+        /// <summary>
+        /// Indicates a postal_town.
+        /// </summary>
+        postal_town
     }
 }
