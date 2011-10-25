@@ -104,6 +104,10 @@
         /// <summary>
         /// Indicates a train station.
         /// </summary>
-        train_station
+        train_station,
+        /// <summary>
+        /// Indicates a parking.
+        /// </summary>
+        parking
     }
 }
