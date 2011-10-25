@@ -116,6 +116,10 @@
         /// <summary>
         /// Indicates a postal_town.
         /// </summary>
-        postal_town
+        postal_town,
+        /// <summary>
+        /// Indicates a subway_station.
+        /// </summary>
+        subway_station
     }
 }
