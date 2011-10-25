@@ -120,6 +120,10 @@
         /// <summary>
         /// Indicates a subway_station.
         /// </summary>
-        subway_station
+        subway_station,
+        /// <summary>
+        /// Indicates a transit_station.
+        /// </summary>
+        transit_station
     }
 }
